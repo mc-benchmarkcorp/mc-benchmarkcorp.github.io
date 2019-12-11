@@ -3,7 +3,16 @@ entries:
   cbc-demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-11T08:42:38.591595-05:00"
+    created: "2019-12-11T08:47:39.384802-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 9574632fe8a6aa737a45f02b9e89a486de0a698c666aa9b3b273ba6c749f82ba
+    name: cbc-demo
+    urls:
+    - https://mc-benchmarkcorp.github.io/cbc-demo-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-11T08:47:39.384494-05:00"
     description: A Helm chart for Kubernetes
     digest: c8cbff223a719466d22718f0f7628fab8d32514711cfab8a81a7f74ff380bdac
     name: cbc-demo
@@ -12,11 +21,11 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-11T08:42:38.589943-05:00"
+    created: "2019-12-11T08:47:39.383832-05:00"
     description: A Helm chart for Kubernetes
     digest: 0259c45638ca0540e3dacb7931427f1597fe7c3914f41e4d935c417ab09059c3
     name: cbc-demo
     urls:
     - https://mc-benchmarkcorp.github.io/cbc-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-11T08:42:38.588726-05:00"
+generated: "2019-12-11T08:47:39.382234-05:00"
