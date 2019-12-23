@@ -3,44 +3,44 @@ entries:
   cbc-demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-20T09:21:09.305137-05:00"
+    created: "2019-12-23T11:44:20.036729-05:00"
     description: A Helm chart for Kubernetes
     digest: 9574632fe8a6aa737a45f02b9e89a486de0a698c666aa9b3b273ba6c749f82ba
     name: cbc-demo
     urls:
-    - https://mc-benchmarkcorp.github.io/mc-benchmarkcorp.github.io/cbc-demo-0.3.0.tgz
+    - mc-benchmarkcorp.github.io/cbc-demo-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-20T09:21:09.30486-05:00"
+    created: "2019-12-23T11:44:20.035818-05:00"
     description: A Helm chart for Kubernetes
     digest: c8cbff223a719466d22718f0f7628fab8d32514711cfab8a81a7f74ff380bdac
     name: cbc-demo
     urls:
-    - https://mc-benchmarkcorp.github.io/mc-benchmarkcorp.github.io/cbc-demo-0.2.0.tgz
+    - mc-benchmarkcorp.github.io/cbc-demo-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-20T09:21:09.304604-05:00"
+    created: "2019-12-23T11:44:20.035212-05:00"
     description: A Helm chart for Kubernetes
     digest: 0259c45638ca0540e3dacb7931427f1597fe7c3914f41e4d935c417ab09059c3
     name: cbc-demo
     urls:
-    - https://mc-benchmarkcorp.github.io/mc-benchmarkcorp.github.io/cbc-demo-0.1.0.tgz
+    - mc-benchmarkcorp.github.io/cbc-demo-0.1.0.tgz
     version: 0.1.0
   server:
   - apiVersion: v1
     appVersion: "4.5"
-    created: "2019-12-20T09:21:09.304333-05:00"
+    created: "2019-12-23T11:44:20.037277-05:00"
     description: A Helm chart for the Aqua Console Componants
-    digest: 7b52c6bb738c8d6979cb0742822863aaa3fff585143d768770599fe341049d79
+    digest: 8795b243ee17c891ca83438ea45aeee9e87f146805c8080266104287d60589d7
     name: server
     urls:
-    - https://mc-benchmarkcorp.github.io/server-4.5.0.tgz
+    - mc-benchmarkcorp.github.io/server-4.5.0.tgz
     version: 4.5.0
   smartcheck:
   - appVersion: 1.2.35
-    created: "2019-12-20T09:21:09.313182-05:00"
+    created: "2019-12-23T11:44:20.04687-05:00"
     description: Deep Security Smart Check
     digest: a053aaf6897992e759e79a933d63b8183883dea4d146709ea65e2c43fa1f87e2
     engine: gotpl
@@ -53,6 +53,6 @@ entries:
     name: smartcheck
     tillerVersion: '>2.14.0'
     urls:
-    - https://mc-benchmarkcorp.github.io/mc-benchmarkcorp.github.io/smartcheck-1.2.35.tgz
+    - mc-benchmarkcorp.github.io/smartcheck-1.2.35.tgz
     version: 1.2.35
-generated: "2019-12-20T09:21:09.303535-05:00"
+generated: "2019-12-23T11:44:20.033379-05:00"
